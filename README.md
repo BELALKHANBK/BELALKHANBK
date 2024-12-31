@@ -1,5 +1,5 @@
-![Web developer](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/455949099_1252420836162049_1401180982840668535_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEsQKooe_Degb2XAzOCpSdUgYohwUdNpi6BiiHBR02mLvMP8Brf6ujUqelzQ79aNw0UoEC6jkAkADWZtSYxbZJF&_nc_ohc=ihk3TGiipxsQ7kNvgGrKu8Y&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=A4ofQkTwFwgm9oUc-RoRK1O&oh=00_AYD8gqi-lZ9HKjepaeI7c2p3YjWeiZ8PRHsWLZr6X_c3Ug&oe=677974BF)
-### Hi there 👋, my name is Belal khan
+![Web developer](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/471327157_1359786078758857_2786227786962344786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFO8QiYSmI3O8ufOtxv20tfHPwNo4iiQncc_A2jiKJCd-ZFAB_Gc6ZamnwgZ7RNXF7MmsUq0MeyCe1aJeOpnqL_&_nc_ohc=OcMGJszYpn0Q7kNvgFKLTq6&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=ANp7IgPEX4kvks2UOLD7MUe&oh=00_AYBgJXbviVm4T2uR5GVn5PwnDsOZ9E42rFRGkq9HB7-X6A&oe=67795894)
+# Hi there 👋, my name is Belal khan
 #### Web developer
 
 
