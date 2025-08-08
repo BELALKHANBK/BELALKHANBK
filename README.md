@@ -1,4 +1,4 @@
-# Hi there, I'm MD BELAL HOSSEN 👋
+# Hi there, I'm MD BALAL HOSSEN 👋
 
 ## 🚀 About Me
 I'm a **Frontend Web Developer** passionate about building responsive and user-friendly web applications.  
