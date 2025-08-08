@@ -1,5 +1,6 @@
 
-<img src="https://i.ibb.co/yBxyTL58/Black-and-White-Modern-Business-Linked-In-Banner.png" alt="Blue-Gradient-Modern-Linked-In-Banner" border="0">
+<img src="https://i.ibb.co/yBxyTL58/Black-and-White-Modern-Business-Linked-In-Banner.png" alt="Blue Gradient Modern LinkedIn Banner" border="0" />
+
 # Hi there, I'm MD BALAL HOSSEN 👋
 
 ## 🚀 About Me
