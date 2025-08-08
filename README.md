@@ -1,7 +1,8 @@
 
 <img src="https://i.ibb.co/DgMmvsYB/1.png" alt="Balal Hossen Web Developer Banner" width="100%" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&width=800&lines=Hi+there%2C+I'm+MD+BALAL+HOSSEN;Frontend+Web+Developer)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&width=800&lines=Hi+there%2C+I%27m+MD+BALAL+HOSSEN&lines=Frontend+Web+Developer)](https://git.io/typing-svg)
 
 
 # Hi there, I'm MD BALAL HOSSEN 👋
